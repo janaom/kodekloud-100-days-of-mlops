@@ -1,3 +1,7 @@
+<img width="1910" height="960" alt="image" src="https://github.com/user-attachments/assets/ff724565-ccc2-4ae9-9a1c-48997ed036aa" />
+
+
+
 Most people who want to learn MLOps get stuck before they ever ship a model. Why?
 
 - Setting up an end-to-end ML stack feels overwhelming.
