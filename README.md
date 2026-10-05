@@ -1,4 +1,4 @@
-<img width="1900" height="952" alt="image" src="https://github.com/user-attachments/assets/63ca8a65-eee8-4389-8e59-1250c6ad66a9" />
+<img width="1911" height="888" alt="image" src="https://github.com/user-attachments/assets/3adfec3c-9530-4c35-b5f5-fdecde822da2" />
 
 
 Most people who want to learn MLOps get stuck before they ever ship a model. Why?
