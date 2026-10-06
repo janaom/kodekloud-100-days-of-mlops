@@ -27,3 +27,8 @@ What This 100-Day MLOps Challenge Gives You
 - Community support when you get stuck
   
 This challenge is designed for ML engineers, data scientists, and DevOps folks who want MLOps skills that actually show up on the job, the kind that take a model from a Jupyter notebook to a monitored, retrainable production system.
+
+From Sr DevOps Engineer to DevOps Architect, yay!
+
+<img width="1911" height="893" alt="image" src="https://github.com/user-attachments/assets/4ad1d73b-f8fa-4430-95fb-50c7264d9113" />
+
